@@ -4,8 +4,8 @@
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/CarlosEX)
 
 
-![Contribuições](https://github-readme-stats.vercel.app/api?username=CarlosEX&theme=blue-green)
-![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&theme=blue-green)
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEX&theme=dracula)
+![Carlos Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&theme=dracula)
 
 ## Skills
 
