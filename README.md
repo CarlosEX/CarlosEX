@@ -68,8 +68,15 @@ Meus primeiros contatos com T.I venheram em 2015 quando migrei da posição de l
         <li>Código Limpo</li>
         <li>Arquitetura Limpa</li>
         <li>Refatoração</li>
+        <li>Padrões de Projetos</li>
+        <li>Expressões Regulares</li>
+        <li>.NET 4 (C#)</li>
+        <li>Linux a Biblia</li>
+        <li>Acces - Básico</li>
+        <li>Acces - Programação VBA</li>
+        <li>Microsoft Office - Programação VBA</li>
     </ul>
 </div>
 
-<img align="center" alt="html5" src="https://scontent.fcau11-1.fna.fbcdn.net/v/t39.30808-6/s600x600/241839826_575151403680891_6399997952473605975_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=eSGKeI_d-6YAX_19Nz3&_nc_ht=scontent.fcau11-1.fna&oh=04225ac61c24a81c4a6ec27332d8a213&oe=6152EFD3">
+
 ## 
