@@ -1,4 +1,5 @@
-### Olá, meu nome é *Carlos Antonio* 🖐️
+### Olá, meu nome é Carlos Antonio 🖐️
+
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://github.com/CarlosEX)
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/CarlosEX)
@@ -7,13 +8,15 @@
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/CarlosEX)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEX&theme=dracula)
+
 ![Carlos Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&theme=dracula)
 
-# Tecnologias
+# Tecnologias que utilizo
 
  ## Linguagens
 <div style="display: inline_block"><br/>
@@ -26,11 +29,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
-   
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">   
 </div><br/>
 
 ## Banco de dados
@@ -42,7 +41,7 @@
    
 </div><br/>
 
-## Office
+## Pacote Office
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
