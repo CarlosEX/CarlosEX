@@ -1,11 +1,13 @@
 ### Olá, meu nome é Carlos Antonio 🖐️
+Eu sou um desenvolvedor .NET C#, com graduação em Administração de Empresas. 
 
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://github.com/CarlosEX)
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://carlosantoniocison.editorx.io/portifolio)
+
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/CarlosEX)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/CarlosEX)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloscison/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlos22martinssilva@gmail.com)
-[![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/CarlosEX)
+[![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/CarlosCison)
 
 ![Carlos Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&theme=dracula)
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEX&theme=dracula)
