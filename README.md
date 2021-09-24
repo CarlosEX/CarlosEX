@@ -5,7 +5,6 @@
 
 
 ![Contribuições](https://github-readme-stats.vercel.app/api?username=CarlosEX&theme=blue-green)
-
 ![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&theme=blue-green)
 
 ## Skills
