@@ -51,9 +51,11 @@ Seja muito bem vindo ao meu repositório no GitHub.
     <img align="center" alt="html5" src="https://scontent.fcau11-1.fna.fbcdn.net/v/t39.30808-6/242356105_583320129530685_6874977667378585502_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=9T1Qu3a3-p8AX_1MQX3&_nc_ht=scontent.fcau11-1.fna&oh=95ff7d7fecbf022991fbbe848a0a6d71&oe=61524D85">
 </div><br/>
 <p>
-Meu nome é Carlos Antonio, sou administrador formado pela Faculdade Anhanguera (dez/2016), e um apaixonado por tecnologia, natureza, bons livros e um autodidata declarado.
+Sou administrador formado pela Faculdade Anhanguera (dez/2016), e um apaixonado por tecnologia, natureza, bons livros e um autodidata declarado.
 
-Nasci e me criei no estado de PE e até os 19 anos, ajudei meus pais no campo. Aos 20 anos, me mudei para SP rumo a minha primeira experiência profissional, e foi durante essa jornada incrível, que tive a  felicidade de atuar e conhecer diferentes segmentos do mercado: indústria, comércio e governamental, o que me ajudou a formar minhas Soft/Hard skills e me integrar ao mundo da tecnologia.
+Nasci e me criei no estado de PE, e até os 19 anos, ajudei meus pais no campo. Aos 20 anos, me mudei para SP rumo a minha primeira experiência profissional, e foi durante essa jornada incrível, que tive a  felicidade de atuar e conhecer diferentes segmentos do mercado: indústria, comércio e governamental, o que me ajudou a formar minhas Soft/Hard skills e me integrar ao mundo da tecnologia e meio corporativo.
+
+Meus primeiros contatos com T.I venheram em 2015 quando migrei da posição de liderança e gestão de pessoas, e fui atuar em escritórios.  Iniciei prenchendo planilhas de Excel, depois fui me integrando ao sistema interno da empresa, até que conheci a programção e possibilidades que ela nos forneciam para automação.
 </p>
 
 
