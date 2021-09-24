@@ -48,5 +48,9 @@ Eu sou um desenvolvedor .NET C#, com graduação em Administração de Empresas.
 </div><br/>
 
 ## Quem sou eu
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://scontent.fcau11-2.fna.fbcdn.net/v/t39.30808-6/242767621_582648986264466_5252574066001520894_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=NWMy0CuGAS0AX_tvkhv&_nc_ht=scontent.fcau11-2.fna&oh=ee0a689410dcbd09b43c789502e6bbef&oe=61521A51">
+</div><br/>
+
 
 ## 
