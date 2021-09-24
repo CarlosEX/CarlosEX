@@ -47,10 +47,26 @@ Eu sou um desenvolvedor .NET C#, com graduação em Administração de Empresas.
    
 </div><br/>
 
-## Quem sou eu
+## Sobre mim
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://scontent.fcau11-1.fna.fbcdn.net/v/t39.30808-6/242356105_583320129530685_6874977667378585502_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=9T1Qu3a3-p8AX_1MQX3&_nc_ht=scontent.fcau11-1.fna&oh=95ff7d7fecbf022991fbbe848a0a6d71&oe=61524D85">
 </div><br/>
+
+
+<img align="center" alt="html5" src="https://scontent.fcau11-1.fna.fbcdn.net/v/t39.30808-6/s600x600/241839826_575151403680891_6399997952473605975_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=eSGKeI_d-6YAX_19Nz3&_nc_ht=scontent.fcau11-1.fna&oh=04225ac61c24a81c4a6ec27332d8a213&oe=6152EFD3">
+
+<img align="center" alt="html5" src="https://scontent.fcau11-1.fna.fbcdn.net/v/t1.6435-9/p180x540/129627601_408206707042029_1189017153895882570_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=p9eT8akdbqkAX8qGcF6&_nc_ht=scontent.fcau11-1.fna&oh=33afe96bcf8fc13c0a132580134234af&oe=6172CFF7">
+
+
+
+<div>
+    <h3>Principais livros de T.I</h3>
+    <ul>
+        <li>Código Limpo</li>
+        <li>Arquitetura Limpa</li>
+        <li>Refatoração</li>
+    </ul>
+</div>
 
 
 ## 
