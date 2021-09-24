@@ -4,10 +4,10 @@ Eu sou um desenvolvedor .NET C#, com graduação em Administração de Empresas.
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://carlosantoniocison.editorx.io/portifolio)
 
-[![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/CarlosEX)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloscison/)
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlos22martinssilva@gmail.com)
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/CarlosCison)
+[![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3jEpw5p0MjgbeQYIy7YNhw)
+
 
 ![Carlos Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&theme=dracula)
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEX&theme=dracula)
@@ -49,7 +49,7 @@ Eu sou um desenvolvedor .NET C#, com graduação em Administração de Empresas.
 
 ## Quem sou eu
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://scontent.fcau11-2.fna.fbcdn.net/v/t39.30808-6/242767621_582648986264466_5252574066001520894_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=NWMy0CuGAS0AX_tvkhv&_nc_ht=scontent.fcau11-2.fna&oh=ee0a689410dcbd09b43c789502e6bbef&oe=61521A51">
+    <img align="center" alt="html5" src="https://scontent.fcau11-1.fna.fbcdn.net/v/t39.30808-6/242356105_583320129530685_6874977667378585502_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=9T1Qu3a3-p8AX_1MQX3&_nc_ht=scontent.fcau11-1.fna&oh=95ff7d7fecbf022991fbbe848a0a6d71&oe=61524D85">
 </div><br/>
 
 
