@@ -58,9 +58,9 @@ Seja muito bem vindo ao meu repositório no GitHub.
 <p>
 Sou administrador formado pela Faculdade Anhanguera (dez/2016), e um apaixonado por tecnologia, natureza, bons livros e um autodidata declarado.
 
-Nasci e me criei no estado de PE, e até os 19 anos, ajudei meus pais no campo. Aos 20 anos, me mudei para SP rumo a minha primeira experiência profissional, e foi durante essa jornada incrível, que tive a  felicidade de atuar e conhecer diferentes segmentos do mercado: indústria, comércio e governamental, o que me ajudou a formar minhas Soft/Hard skills e me integrar ao mundo da tecnologia e meio corporativo.
+Nasci e me criei no estado de PE, e até os 19 anos, ajudei meus pais no campo. Aos 20 anos, me mudei para SP rumo a minha primeira experiência profissional, e foi durante essa jornada incrível, que tive a felicidade de atuar e conhecer diferentes segmentos do mercado: indústria, comércio e governamental, o que me ajudou a formar minhas Soft/Hard skills e me integrar ao mundo da tecnologia e meio corporativo.
 
-Meus primeiros contatos com T.I venheram em 2015 quando migrei da posição de liderança e gestão de pessoas, e fui atuar em escritórios.  Iniciei prenchendo planilhas de Excel, depois fui me integrando ao sistema interno da empresa, até que conheci a programção e possibilidades que ela nos forneciam para automação.
+Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de liderança e gestão de pessoas, e fui atuar em escritórios. Iniciei preenchendo planilhas de Excel, depois fui me integrando ao sistema interno da empresa, até que conheci a programação e possibilidades que ela nos forneciam para automação.
 </p>
 
 
