@@ -11,13 +11,6 @@ Seja muito bem vindo ao meu repositório no GitHub.
 ![Carlos Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&theme=dracula)
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEX&theme=dracula)
 
-Exemplo   | Valor do exemplo
---------- | ------
-Exemplo 1 | R$ 10
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
-
 # Tecnologias que utilizo
 
  ## Linguagens
