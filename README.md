@@ -11,7 +11,7 @@ Seja muito bem vindo ao meu repositório no GitHub.
 ![Carlos Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&theme=dracula)
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEX&theme=dracula)
 
-# Tecnologias que utilizo
+# Tecnologias
 
  ## Linguagens
 <div style="display: inline_block"><br/>
@@ -22,6 +22,7 @@ Seja muito bem vindo ao meu repositório no GitHub.
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    <img align="center" alt="html5" src="https://avatars0.githubusercontent.com/u/14075148?s=400&v=4">
 </div><br/>
 
 ## Banco de dados
