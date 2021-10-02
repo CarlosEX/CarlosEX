@@ -36,7 +36,6 @@ Seja muito bem vindo ao meu repositório no GitHub.
 ## Cloud
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-    <img align="center" alt="html5" src="https://cdn-icons-png.flaticon.com/128/873/873107.png" height="25" width="25">
 </div><br/>
 
 ## Pacote Office
@@ -45,9 +44,6 @@ Seja muito bem vindo ao meu repositório no GitHub.
 </div><br/>
 
 ## Sobre mim
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://scontent.fcau11-1.fna.fbcdn.net/v/t39.30808-6/242356105_583320129530685_6874977667378585502_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=9T1Qu3a3-p8AX_1MQX3&_nc_ht=scontent.fcau11-1.fna&oh=95ff7d7fecbf022991fbbe848a0a6d71&oe=61524D85">
-</div><br/>
 <p>
 Sou administrador formado pela Faculdade Anhanguera (dez/2016), e um apaixonado por tecnologia, natureza, bons livros e um autodidata declarado.
 
@@ -55,11 +51,6 @@ Nasci e me criei no estado de PE, e até os 19 anos, ajudei meus pais no campo. 
 
 Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de liderança e gestão de pessoas, e fui atuar em escritórios. Iniciei preenchendo planilhas de Excel, depois fui me integrando ao sistema interno da empresa, até que conheci a programação e possibilidades que ela nos forneciam para automação.
 </p>
-
-
-
-<img align="center" alt="html5" src="https://scontent.fcau11-1.fna.fbcdn.net/v/t1.6435-9/p180x540/129627601_408206707042029_1189017153895882570_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=p9eT8akdbqkAX8qGcF6&_nc_ht=scontent.fcau11-1.fna&oh=33afe96bcf8fc13c0a132580134234af&oe=6172CFF7"><br/>
-
 
 <div>
     <h3>Principais livros de T.I</h3>
