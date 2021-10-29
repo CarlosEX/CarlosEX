@@ -56,6 +56,3 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
 ![WhatsApp Image 2021-10-29 at 03 06 32](https://user-images.githubusercontent.com/33513870/139384273-61e4ef8d-8494-4109-84be-87a7647dd1ef.jpeg)
 
 ![Mensagem Colorida para Compartilhar no Facebook](https://user-images.githubusercontent.com/33513870/139388826-bbf8adad-6e13-40ce-a5f8-9b74a2972eb1.jpg)
-![Carlos_Antonio_Cison (6)](https://user-images.githubusercontent.com/33513870/139388829-815ad124-bda0-4b6b-a067-ab4af48bba08.jpg)
-![Carlos_Antonio_Cison (7)](https://user-images.githubusercontent.com/33513870/139390008-0d61a7bf-e091-4158-9f5a-c3a3d42a51fe.jpg)
-
