@@ -52,5 +52,6 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div><br/>
+![WhatsApp Image 2021-10-29 at 03 06 32](https://user-images.githubusercontent.com/33513870/139384273-61e4ef8d-8494-4109-84be-87a7647dd1ef.jpeg)
 
 
