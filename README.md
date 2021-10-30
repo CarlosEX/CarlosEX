@@ -1,4 +1,3 @@
-![september - october 2015](https://user-images.githubusercontent.com/33513870/139525623-7dd2f254-3f82-456b-97ae-3fcc934978f1.jpg)
 ### Olá, meu nome é Carlos Antonio 🖐️
 Seja muito bem vindo ao meu repositório no GitHub.
 
@@ -58,7 +57,3 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
 
 ![Mensagem Colorida para Compartilhar no Facebook](https://user-images.githubusercontent.com/33513870/139388826-bbf8adad-6e13-40ce-a5f8-9b74a2972eb1.jpg)
 ![image_29a8f705-d43d-47e3-a83a-e3524d0a318920211029_103230](https://user-images.githubusercontent.com/33513870/139525716-33ddf911-fd3d-485c-a88d-7833d801765b.jpg)
-![image_87946738-dd74-4c4a-964a-4c443909e2b320211029_002125](https://user-images.githubusercontent.com/33513870/139525717-392979e0-7c29-4930-8065-076748d360cb.jpg)
-![image_bf1e50ae-8b24-4957-a1bc-5062ffe28c4a20211028_122209](https://user-images.githubusercontent.com/33513870/139525718-24039dd7-02df-47e8-bfc1-a9a418f03be4.jpg)
-
-
