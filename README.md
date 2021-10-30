@@ -1,3 +1,4 @@
+![september - october 2015](https://user-images.githubusercontent.com/33513870/139525623-7dd2f254-3f82-456b-97ae-3fcc934978f1.jpg)
 ### Olá, meu nome é Carlos Antonio 🖐️
 Seja muito bem vindo ao meu repositório no GitHub.
 
