@@ -1,4 +1,3 @@
-![download (1)](https://user-images.githubusercontent.com/33513870/139574878-4e60d237-75c3-4ae7-b2b6-cd314b9f2800.jpeg)
 ### Olá, meu nome é Carlos Antonio 🖐️
 Seja muito bem vindo ao meu repositório no GitHub.
 
@@ -56,5 +55,6 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
 
 ![WhatsApp Image 2021-10-29 at 03 06 32](https://user-images.githubusercontent.com/33513870/139384273-61e4ef8d-8494-4109-84be-87a7647dd1ef.jpeg)
 
-![WhatsApp Image 2021-10-31 at 05 11 15](https://user-images.githubusercontent.com/33513870/139574277-46ec2221-db5b-41e9-a079-26a60d662d9a.jpeg)
+![WhatsApp Image 2021-10-31 at 05 11 15 (2)](https://user-images.githubusercontent.com/33513870/139574902-a5da1748-259c-4ba1-b31d-55a21fece2c2.jpeg)
+
 
