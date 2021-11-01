@@ -45,7 +45,3 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div><br/>
 
-![carlos_antonio_forbes69854756](https://user-images.githubusercontent.com/33513870/139632628-970962a1-9cd2-4676-a738-e014c94caaad.jpeg)
-![carlos_antonio_forbes_550012](https://user-images.githubusercontent.com/33513870/139632631-3e126162-806f-47f1-93b8-45574621fb96.jpeg)
-![Lion Face](https://user-images.githubusercontent.com/33513870/139632633-8ee640fd-391a-4892-9e03-b6af2fa633bc.jpg)
-
