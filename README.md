@@ -1,3 +1,4 @@
+![1634725825586](https://user-images.githubusercontent.com/33513870/140273712-c2b1c1ef-166b-4406-92bb-b83eac010e17.jpeg)
 ### Olá, meu nome é Carlos Antonio 🖐️
 Seja muito bem vindo ao meu repositório no GitHub.
 
