@@ -46,11 +46,8 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div><br/>
-![carlosantonio](https://user-images.githubusercontent.com/33513870/140503017-1a4c66d3-2fe3-4390-a3a8-aafab1053b91.png)
+![september - october 2015 (2)](https://user-images.githubusercontent.com/33513870/140504819-6b28db22-2bcc-42a3-8d6a-dad8185c75e6.jpg)
 
-![github-logo_icon-icons com_73546 (1)](https://user-images.githubusercontent.com/33513870/140504399-896d8e2a-45ba-43dc-9097-d95d711768c3.png)
 
-![september - october 2015 (1)](https://user-images.githubusercontent.com/33513870/140504613-b84a598b-643b-4985-a44c-242b218a851a.jpg)
-![september - october 2015 (1)](https://user-images.githubusercontent.com/33513870/140504631-9ba09ed7-340f-44cf-8e7d-d49f00eedc14.jpg)
 
 
