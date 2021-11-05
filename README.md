@@ -1,3 +1,10 @@
+![Jó-14_1-2-696x393](https://user-images.githubusercontent.com/33513870/140470427-49db7b7f-4b40-42cb-bc07-57ac87022eec.jpg)
+![Interop Excel (7)](https://user-images.githubusercontent.com/33513870/140470429-cef0ed11-0ae6-4db5-b142-60261e57a90b.jpg)
+![carlos_antonio_forbes69854756](https://user-images.githubusercontent.com/33513870/140470430-0a0b0100-baf2-49fb-aa1e-0a7d975f13cc.jpeg)
+![download (1)](https://user-images.githubusercontent.com/33513870/140470433-d42b0e01-4771-48b5-8447-275f6a552243.jpeg)
+![WhatsApp Image 2021-10-31 at 05 11 15 (4)](https://user-images.githubusercontent.com/33513870/140470436-c20bb77d-0ec8-4032-a92b-ee4a0c5f1c7e.jpeg)
+![WhatsApp Image 2021-10-31 at 05 11 15 (3)](https://user-images.githubusercontent.com/33513870/140470438-408d5af2-0502-41bd-b42e-5dd45a09f2da.jpeg)
+![WhatsApp Image 2021-10-31 at 05 11 15](https://user-images.githubusercontent.com/33513870/140470439-7420beb2-4ee1-4ac8-a712-38f8f72cd027.jpeg)
 
 ### Olá, meu nome é Carlos Antonio 🖐️
 Seja muito bem vindo ao meu repositório no GitHub.
