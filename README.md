@@ -50,5 +50,7 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
 
 ![github-logo_icon-icons com_73546 (1)](https://user-images.githubusercontent.com/33513870/140504399-896d8e2a-45ba-43dc-9097-d95d711768c3.png)
 
+![september - october 2015 (1)](https://user-images.githubusercontent.com/33513870/140504613-b84a598b-643b-4985-a44c-242b218a851a.jpg)
+![september - october 2015 (1)](https://user-images.githubusercontent.com/33513870/140504631-9ba09ed7-340f-44cf-8e7d-d49f00eedc14.jpg)
 
 
