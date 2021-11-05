@@ -49,4 +49,5 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
 
 ![Mensagem Colorida para Compartilhar no Facebook](https://user-images.githubusercontent.com/33513870/140471270-f645b7c9-353d-4090-a1d8-b4d433a902cb.jpg)
 ![Jó-14_1-2-696x393](https://user-images.githubusercontent.com/33513870/140471407-b2344db6-8bfa-4f94-80aa-1343b20b1845.jpg)
+![september - october 2015 (1)](https://user-images.githubusercontent.com/33513870/140472079-5373a71c-1526-4828-8002-e5716ab8fb9e.jpg)
 
