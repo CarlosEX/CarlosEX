@@ -49,5 +49,6 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
 ![bomdiacampeao](https://user-images.githubusercontent.com/33513870/140505040-f716698e-f5da-4d20-a80f-e9fc8e875a8a.jpg)
 ![bomdiacampeao](https://user-images.githubusercontent.com/33513870/140505124-6d428b96-cd4d-436f-8675-68f440345296.png)
 
+![bomdiacampeao (2)](https://user-images.githubusercontent.com/33513870/140505953-23b32d97-7f97-4687-b3d0-3072e8b57c20.jpg)
 
 
