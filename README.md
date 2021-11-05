@@ -48,6 +48,7 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
 </div><br/>
 ![carlosantonio](https://user-images.githubusercontent.com/33513870/140503017-1a4c66d3-2fe3-4390-a3a8-aafab1053b91.png)
 
+![github-logo_icon-icons com_73546 (1)](https://user-images.githubusercontent.com/33513870/140504399-896d8e2a-45ba-43dc-9097-d95d711768c3.png)
 
 
 
