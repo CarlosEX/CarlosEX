@@ -46,4 +46,5 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div><br/>
-![carlos_antonio_bom_dia_campeao_coloque_deus_em_primeiro_lugar](https://user-images.githubusercontent.com/33513870/140599797-e151ae9b-ad97-407d-abe2-71b0a606d5cd.jpg)
+
+![carlosantoniobomdiacampeaocoloquedeusemprimeirolugar](https://user-images.githubusercontent.com/33513870/140599816-811e7efd-d3f7-46e4-9e66-94d344af064a.jpg)
