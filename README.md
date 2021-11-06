@@ -46,4 +46,3 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div><br/>
 
-![Cópia de CLI + BASH (3)](https://user-images.githubusercontent.com/33513870/140612926-7f792c39-b6a0-4a90-ab91-6b914b410935.jpg)
