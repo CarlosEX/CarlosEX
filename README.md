@@ -46,6 +46,3 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div><br/>
 
-![carlos_antonio_programacao_web_api_dotnet5_csharp (1)](https://user-images.githubusercontent.com/33513870/141174517-8e1db997-ad6c-4b35-8e4d-8182cd3921a4.jpg)
-
-
