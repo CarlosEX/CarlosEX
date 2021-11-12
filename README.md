@@ -45,5 +45,6 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div><br/>
-![bomdiacampeao (13)](https://user-images.githubusercontent.com/33513870/141420222-f109e869-e3a7-4157-9e63-0d132f08fa69.jpg)
+
+![bomdiacampeaoCarlosAntonio](https://user-images.githubusercontent.com/33513870/141420348-56e932b8-cbea-411a-a17b-805f14cd7e1b.jpg)
 
