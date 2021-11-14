@@ -46,6 +46,8 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div><br/>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="carlos-antonio-862a40225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/carlos-antonio-862a40225?trk=profile-badge">Carlos Antonio</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="carlos-antonio-862a40225"  data-version="v1">
+ <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/carlos-antonio-862a40225?trk=profile-badge">Carlos Antonio</a>
+</div>
               
 
