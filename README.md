@@ -50,4 +50,4 @@ Meus primeiros contatos com T.I veio em 2015 quando migrei da posição de lider
  <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/carlos-antonio-862a40225?trk=profile-badge">Carlos Antonio</a>
 </div>
               
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
