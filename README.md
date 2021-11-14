@@ -27,7 +27,6 @@ Bacharel em Administração de Empresas, Assistente Administrativo Pleno, Desenv
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-    <img heigth=30 width=30 align="center" alt="Avalonia.UI" src="https://avatars0.githubusercontent.com/u/14075148?s=400&v=4">
 </div><br/>
 
 ## Banco de dados
@@ -40,8 +39,4 @@ Bacharel em Administração de Empresas, Assistente Administrativo Pleno, Desenv
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div><br/>
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="carlos-antonio-862a40225"  data-version="v1">
- <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/carlos-antonio-862a40225?trk=profile-badge">Carlos Antonio</a><script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</div>
               
