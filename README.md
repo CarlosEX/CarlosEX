@@ -3,8 +3,7 @@
 Seja muito bem vindo ao meu repositório no GitHub.
 
 ## Sobre mim
-<p>
-Bacharel em Administração de Empresas, Assistente Administrativo Pleno, Desenvolvedor .NET C# e Consultor VBA Office.
+<p>Backend .NET C#
 </p>
 
 ## 
