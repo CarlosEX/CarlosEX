@@ -42,4 +42,5 @@ Seja muito bem vindo ao meu repositório no GitHub.
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div><br/>
               
-![bomdiacampeaoCaminhaoComDeus](https://user-images.githubusercontent.com/33513870/141735129-ef9b7524-967a-43f0-8d90-c4dbd084b508.jpg)
+![Carlos_Antonio_Cison (6) (1)](https://user-images.githubusercontent.com/33513870/141836210-ccb8b44f-1bfe-4ae5-9a27-0ee6969fb908.jpg)
+
