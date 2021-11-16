@@ -39,4 +39,5 @@ Seja muito bem vindo ao meu repositório no GitHub.
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div><br/>
               
+![bomdiacampeaoSalomaoHoje](https://user-images.githubusercontent.com/33513870/141936965-2180ced5-f4b5-4eda-b58c-8499ad4111ee.jpg)
 
