@@ -42,5 +42,3 @@ Seja muito bem vindo ao meu repositório no GitHub.
 # im
 
 
-
-![bomdiacampea](https://ibb.co/6rTrVmM)
