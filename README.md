@@ -11,7 +11,7 @@ Seja muito bem vindo ao meu repositório no GitHub.
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://carlosantoniocison.editorx.io/portifolio)
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3jEpw5p0MjgbeQYIy7YNhw)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Carlos Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&theme=)
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEX&theme=dracula)
 
