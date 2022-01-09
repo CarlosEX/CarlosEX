@@ -3,7 +3,7 @@
 Seja muito bem vindo ao meu repositório no GitHub.
 
 ## Sobre mim
-<p>Backend .NET C#
+<p>Backend .NET C#, NodeJs, JavaScript, Shell Script.
 </p>
 
 #
