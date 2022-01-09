@@ -1,5 +1,5 @@
 
-### Olá, meu nome é Carlos Antonio 🖐️
+### Olá, meu nome é Carlos Antonio, sou um desenvolvedor backend que amo linha de comando, linux e design de código 🖐️
 Seja muito bem vindo ao meu repositório no GitHub.
 
 ## Sobre mim
