@@ -7,16 +7,13 @@ Seja muito bem vindo ao meu repositório no GitHub.
 </p>
 
 #
-
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://carlosantoniocison.editorx.io/portifolio)
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3jEpw5p0MjgbeQYIy7YNhw)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&layout=compact)](https://github.com/CarlosEX/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&langs_count=10&layout=compact)](https://github.com/CarlosEX/)
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEX&theme=dracula)
 
-# Tecnologias
+## Tecnologias
 
- ## Linguagens
 <div style="display: inline_block"><br/>
     <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
