@@ -53,5 +53,35 @@ Seja muito bem vindo ao meu repositório no GitHub.
 ![thumb-shellscript](https://user-images.githubusercontent.com/33513870/157249937-73c577d0-7a84-4c52-aff0-cabc61af4335.jpeg)
 ![logo-cison-mobile-blue](https://user-images.githubusercontent.com/33513870/157249942-c0d77aff-8091-4b93-9b6a-32dda39b30ba.jpg)
 ![6224fe144e584b473455c7d1](https://user-images.githubusercontent.com/33513870/157249945-64d76f06-8f25-45e5-9eb8-b9853df903eb.jpeg)
+![622756fd4c427a60c958172f](https://user-images.githubusercontent.com/33513870/157255660-fad5a249-c347-48ad-bf56-01e7f7508ebd.jpeg)
+Em
+Em![Screenshot_20220308-102113](https://user-images.githubusercontent.com/33513870/157255736-ba057876-9737-4787-bb40-42bdab232ca8.png)
+Em
+! [Captura de tela_20220308-102056] ( https://user-images.githubusercontent.com/33513870/157255775-b6d37427-f66f-40be-ae2d-6a726f61d605.png )
+Em
+EmOlá, comunidade!
 
+Gostaria de compartilhar com vocês um projeto que venho desenvolvendo já faz alguns meses.
 
+Me afastei da comunidade DIO faz alguns meses, por motivos de saúde , mas continuei estudando e focando na necessidade de pessoas que precisam aprender programação e não tem um computador, assim como eu.
+
+O foco do meu projeto é ensinar o pouco que sei, e conscientizar de que é possível superar qualquer desafio quando estamos dispostos em fazer a coisa acontecer.
+
+Faz alguns meses que fiquei sem meu notebook, mas, quem disse que isso hoje, é um problema? Consigo fazer quase tudo, que se faz em um desktop, no meu celular. E melhor, resolvi focar no ensino orientado nesse ambiente. Principalmente com ferramentas leves e flexíveis.
+
+O site que vocês vão conhecer, foi 100% criado nesse ambiente.
+
+Veja um pouco dos cursos que estou ensinando, a medida que vou aprendendo vou publicando em cada módulo.
+
+Já gravei +d 70 aulas e +d 20 horas de conteúdos! E só estou me aquecendo.
+
+Com fé em Deus e muito trabalho e estudo, vamos conseguir alimentar com muito conteúdo cada um desses módulos e outros que virão.
+
+Estou me organizando e cada vez mais, melhorando a qualidade dos vídeos e aulas.
+
+Se puder dar uma força no meu canal, eu agradeço, pois estou começando do ZERO depois de perder um canal com mais de 4.000 inscritos
+
+É isso por enquanto, muito obrigado e bons estudos!
+
+ACESSO A PLATAFORMA AQUI: https://carlosex.github.io/CodeMobile/
+EmCriei minha plataforma de cursos 100% do meu celular, inclusive todos os vídeos e materiais.
