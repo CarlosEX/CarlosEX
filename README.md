@@ -12,9 +12,6 @@ Seja muito bem-vindo ao meu repositório no GitHub.
 
 ## Tecnologias
 
-<p>Backend: .NET C#, NodeJs, JavaScript, Shell Script.</p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&langs_count=10&layout=compact)](https://github.com/CarlosEX/)
-
 #
 
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3jEpw5p0MjgbeQYIy7YNhw)
