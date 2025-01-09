@@ -10,9 +10,10 @@ Minha trajetória inclui projetos bem-sucedidos de otimização logística, redu
 
 Seja muito bem-vindo ao meu repositório no GitHub.
 
-## Sobre mim
+## Tecnologias
 
 <p>Backend: .NET C#, NodeJs, JavaScript, Shell Script.</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEX&langs_count=10&layout=compact)](https://github.com/CarlosEX/)
 
 #
 
