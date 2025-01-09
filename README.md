@@ -1,6 +1,7 @@
 
-### Olá, sou o Carlos Antonio! Minha carreira com o mundo de dados/programação começou em 2015 quando tive meus primeiros contatos com uma planilha de Excel. Atualmente sou um profissional de análise de dados com vivência e experiência prática no mundo corporativo. Possuo habilidades e domínio em ferramentas de análise, ETL e visualização de dados em PowerBI, Python, SQL e Excel, Além disso, sou programador sênior VBA e tenho noções intermediárias de programação em Python e C#.
+### Olá, sou o Carlos Antonio, Análista de Dados e Programador! 
 
+Minha carreira com o mundo de dados/programação começou em 2015 quando tive meus primeiros contatos com uma planilha de Excel. Atualmente sou um profissional de análise de dados com vivência e experiência prática no mundo corporativo. Possuo habilidades e domínio em ferramentas de análise, ETL e visualização de dados em PowerBI, Python, SQL e Excel, Além disso, sou programador sênior VBA e tenho noções intermediárias de programação em Python e C#.
 Minha trajetória inclui projetos bem-sucedidos de otimização logística, redução de custos e aumento da eficiência operacional. Busco constantemente aprimorar minhas habilidades e aplicá-las de forma estratégica para impulsionar o sucesso das organizações. 🖐️
 
 Seja muito bem vindo ao meu repositório no GitHub.
